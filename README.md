@@ -22,6 +22,7 @@ Puedes descargar la versión más reciente desde aquí:
 [![Descargar](https://img.shields.io/badge/Descargar-v24-blue?style=for-the-badge&logo=github)](https://github.com/cvillada-code/Temporizador/releases)
 
 ## 👉 Descarga el código fuente en python.
+Temporizador_v24.py
 
 ## **🛠️ Cómo usar**
 
