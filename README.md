@@ -1,6 +1,6 @@
 ﻿## Temporizador\_v.24
 
-Con alarma. Y si lo minimizas, al finalizar el tiempo, se maximiza. Imposible no verlo
+Con alarma. Y si lo minimizas, al finalizar el tiempo, se maximiza. Imposible no verlo.
 
 Puedes cambiar el “audio.mp3” por otro sonido que quieras, solo renombre el mp3.
 
