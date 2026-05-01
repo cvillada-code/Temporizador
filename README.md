@@ -14,6 +14,13 @@ Puedes cambiar el “audio.mp3” por otro sonido que quieras, solo renombre el 
 
 🆓 Totalmente gratuito
 
+Puedes descargar la versión más reciente desde aquí:
+
+## 👉 Descargar última versión
+ 📦 Descargar
+
+[![Descargar](https://img.shields.io/badge/Descargar-v24-blue?style=for-the-badge&logo=github)](https://github.com/cvillada-code/Temporizador/releases)
+
 ## **🛠️ Cómo usar**
 
 Descarga el archivo .zip desde la sección de Releases
